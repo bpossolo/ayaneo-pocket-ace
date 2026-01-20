@@ -7,8 +7,11 @@ Source: [Google Play Store](https://play.google.com/store/apps/details?id=org.pp
 ## Configuration
 Location: SD Card  
 System Folder Parent Directory: `/PocketGames`  
-System Folder: `/PocketGames/PSP`  
+System Folder: `/PocketGames/app-data/PSP`  
 Games Folder: `/PocketGames/roms/psp`  
+
+*Settings -> Graphics -> Backend*  
+Default: Vulkan
 
 *Settings -> Graphics -> Rendering Resolution*  
 Default: 2x  
@@ -23,14 +26,9 @@ Setting: enabled
 Default: enabled  
 Setting: disabled  
 
-*Settings -> Controls -> Control Mapping -> Allow combo mappings*  
-Default: disabled  
-Setting: enabled  
-
 | Pocket Ace | PSP |
 | --- | --- |
 | A | Circle |
 | B | Cross |
 | Y | Square |
 | X | Triangle |
-| Select + Start | Exit App |

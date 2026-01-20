@@ -25,11 +25,13 @@ Setting: disabled
 *Menu -> Other Settings -> Alternative Emulators*  
 | Platform | Setting |
 | ---- | ---- |
-| Dreamcast | Redream (standalone) |
-| GameCube | Dolphin (standalone) |
-| MegaDrive | Genesis Plus GX |
+| Sega Dreamcast | Redream (standalone) |
+| Sega GameGear | Genesis Plus GX |
+| Sega Genesis | Genesis Plus GX |
 | Nintendo 64 | Mupen64Plus-Next |
-| Sony PSP | PPSSPP (standalone) |
+| Nintendo GameCube | Dolphin (standalone) |
+| Sony PlayStation Portable (PSP) | PPSSPP (standalone) |
+| Sony PlayStation 2 | AetherSX2 (standalone) |
 
 ## Theme
 *Menu -> UI Settings -> Theme Downloader*  

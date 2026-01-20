@@ -35,3 +35,15 @@
 
 ## Miscellaneous
 - [AliExpress - Odin-style joysticks](https://www.aliexpress.us/item/3256809581256894.html?gatewayAdapt=glo2usa4itemAdapt)
+
+## SD Card
+| Property | Value |
+| -- | -- |
+| Brand | SanDisk |
+| Form factor | microSDXC UHS-I |
+| Model | Extreme Plus |
+| Capacity | 512GB |
+| Formatting | Android Portable Storage |
+| Vendor | BestBuy |
+| Price | $90 |
+| Purchase Date | Jan 18, 2026 |

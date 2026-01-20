@@ -16,7 +16,8 @@ Folder: `/PocketGames/roms`
 | Nintendo Gamecube | rvz |
 | Nintendo 64 | zip / z64 |
 | Sega Dreamcast | chd |
-| Sega Genesis/MegaDrive | zip / md |
+| Sega Genesis | zip / md |
+| Sega GameGear | zip / ? |
 | Sony PSP | iso |
 | Sony PlayStation 2 | iso |
 

@@ -25,7 +25,8 @@ Setting: xmb (cross media bar, PlayStation style system menu)
 | Nintendo NES/Famicom | Nestopia |
 | Nintendo SNES/SuperFamicom | Snes9x |
 | Nintendo 64 | Mupen64Plus-Next GLES3 |
-| Sega Genesis/MegaDrive + CD + 32x | Genesis Plus GX |
+| Sega GameGear | Genesis Plus GX |
+| Sega Genesis + CD + 32x | Genesis Plus GX |
 | Sega Saturn | Beetle Saturn | Accuracy: good for high-power devices |
 | Sega Saturn | YabaSanshiro | Performance: good for low-power devices |
 | Sony Playstation | Beetle PSX HW |
