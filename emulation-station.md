@@ -5,11 +5,11 @@ UI frontend for browsing/launching all games and emulators.
 - [GitLab Repository](https://gitlab.com/es-de/emulationstation-de)
 
 ## Installation
-Source: https://es-de.org
-Vendor: [Patreon](https://www.patreon.com/cw/es_de)
-Price: $6.00
-Purchase Date: Jan 14, 2026
-File: [ES-DE_3.4.0-56.apk](/private/emulation-station.md)
+Source: https://es-de.org  
+Vendor: [Patreon](https://www.patreon.com/cw/es_de)  
+Price: $6.00  
+Purchase Date: Jan 14, 2026  
+File: [ES-DE_3.4.0-56.apk](/private/emulation-station.md)  
 
 ## Resources
 
@@ -18,11 +18,11 @@ File: [ES-DE_3.4.0-56.apk](/private/emulation-station.md)
 
 ## Configuration
 
-*Menu -> Input Device Settings -> Enable Touch Overlay*
-Default: enabled
-Setting: disabled
+*Menu -> Input Device Settings -> Enable Touch Overlay*  
+Default: enabled  
+Setting: disabled  
 
-*Menu -> Other Settings -> Alternative Emulators*
+*Menu -> Other Settings -> Alternative Emulators*  
 | Platform | Setting |
 | ---- | ---- |
 | Dreamcast | Redream (standalone) |
@@ -32,16 +32,16 @@ Setting: disabled
 | Sony PSP | PPSSPP (standalone) |
 
 ## Theme
-*Menu -> UI Settings -> Theme Downloader*
-Downloaded various themes
-Theme: Art Book Next
-Theme Variant: List - Medata & Miximage
-Theme Color Scheme: Dark - Noir
+*Menu -> UI Settings -> Theme Downloader*  
+Downloaded various themes  
+Theme: Art Book Next  
+Theme Variant: List - Medata & Miximage  
+Theme Color Scheme: Dark - Noir  
 
 ## Game Media
-*Menu -> Scraper -> Account Settings*
-ScreenScraper account credentials
+*Menu -> Scraper -> Account Settings*  
+ScreenScraper account credentials  
 
-*Menu -> Scraper -> Other Settings -> Region*
-Default: Europe
-Setting: USA
+*Menu -> Scraper -> Other Settings -> Region*  
+Default: Europe  
+Setting: USA  

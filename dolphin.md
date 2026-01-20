@@ -1,40 +1,40 @@
 # Dolphin
-Emulator for GameCube and Wii
-https://dolphin-emu.org
+Emulator for GameCube and Wii  
+[Official Site](https://dolphin-emu.org)  
 
 ## Installation
-Source: Obtanium (Obtanium Emulation Pack)
+Source: Obtanium (Obtanium Emulation Pack)  
 
 ## Configuration
 
-*Settings -> Config -> General -> Enable Cheats*
-Default: disabled
-Setting: enabled
+*Settings -> Config -> General -> Enable Cheats*  
+Default: disabled  
+Setting: enabled  
 
-*Settings -> Config -> General -> Fallback Region*
-Default: PAL
-Setting: NTSC-U (usa)
+*Settings -> Config -> General -> Fallback Region*  
+Default: PAL  
+Setting: NTSC-U (usa)  
 
-*Settings -> Graphics Settings -> Video Backend*
-Default: OpenGL
+*Settings -> Graphics Settings -> Video Backend*  
+Default: OpenGL  
 Notes:
  - OpenGL seems to work better thank Vulkan for Metal Gear Solid: Twin Snakes.
 
-*Settings -> Graphics Settings -> Compile Shaders Before Starting*
-Default: disabled
-Setting: enabled
+*Settings -> Graphics Settings -> Compile Shaders Before Starting*  
+Default: disabled  
+Setting: enabled  
 
-*Settings -> Graphics Settings -> Enhancements -> Internal Resolution*
-Default: 1x Native
-Setting: 3x Native (1080p)
+*Settings -> Graphics Settings -> Enhancements -> Internal Resolution*  
+Default: 1x Native  
+Setting: 3x Native (1080p)  
 
-*Settings -> Graphics Settings -> Statistics -> Show FPS*
-Default: disabled
-Setting: enabled
+*Settings -> Graphics Settings -> Statistics -> Show FPS*  
+Default: disabled  
+Setting: enabled  
 
 ### Controls
 
-*Settings -> GameCube Input -> GameCube Controller 1 (gear) -> Buttons*
+*Settings -> GameCube Input -> GameCube Controller 1 (gear) -> Buttons*  
 | Pocket Ace | GameCube |
 | ---- | ---- |
 | A | A |

@@ -7,8 +7,8 @@
 
 ## Installation
 
-Install location: SD Card
-Folder: `/PocketGames/roms`
+Install location: SD Card  
+Folder: `/PocketGames/roms`  
 
 ## File Types
 | Platform | File Extension |

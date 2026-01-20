@@ -1,9 +1,9 @@
 # Resources
 
 ## EmuReady
-GameHub emulation compatibility database for portable gaming devices.
+GameHub emulation compatibility database for portable gaming devices.  
 User-generated content with compatibility reports and recommended configurations/drivers/settings for optimal play.
-https://www.emuready.com
+https://www.emuready.com  
 
 ## Android Emulation Starter Guide
 - [RetroGameCorp: Android Emulation Guide](https://retrogamecorps.com/2022/03/13/android-emulation-starter-guide/)

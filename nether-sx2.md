@@ -4,14 +4,14 @@ Sony Playstation 2 Emulator
 - [NetherSX2-classic (3668)](https://github.com/Trixarian/NetherSX2-classic)
 - [NetherSX2-patch (4248)](https://github.com/Trixarian/NetherSX2-patch)
 
-Variant 3668 is recommended for lower-powered devices.
-Variant 4248 is recommended for powerful devices with Snapdragon processors like the G3x Gen2.
+Variant 3668 is recommended for lower-powered devices.  
+Variant 4248 is recommended for powerful devices with Snapdragon processors like the G3x Gen2.  
 
 ## Installation
-Variant: NetherSX2-patch (4248)
-Version: NetherSX2-v2.2n-4248
-Source: Obtanium
-App Source URL: https://github.com/Trixarian/NetherSX2-patch
+Variant: NetherSX2-patch (4248)  
+Version: NetherSX2-v2.2n-4248  
+Source: Obtanium  
+App Source URL: https://github.com/Trixarian/NetherSX2-patch  
 
 The NetherSX2-patch application is defined in the Obtanium Emulation Pack, however it is [excluded from the json file](https://github.com/RJNY/Obtainium-Emulation-Pack/blob/main/src/applications.json#L401) (I think due to a licensing issue).
 

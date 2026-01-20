@@ -2,16 +2,16 @@
 General emulator for Genesis/MegaDrive, NES, SNES, etc.
 
 ## Installation
-Source: Obtanium (Obtanium Emulation Pack)
-Name: RetroArch AArch64
-Version: 1.22.2
+Source: Obtanium (Obtanium Emulation Pack)  
+Name: RetroArch AArch64  
+Version: 1.22.2  
 
 ## Configuration
 
 ### Menu UI
-*Settings -> Drivers -> Menu*
-Default: glui
-Setting: xmb (cross media bar, PlayStation style system menu)
+*Settings -> Drivers -> Menu*  
+Default: glui  
+Setting: xmb (cross media bar, PlayStation style system menu)  
 
 ### Emulator Cores
 *Load Core -> Download a Core*
@@ -32,21 +32,21 @@ Setting: xmb (cross media bar, PlayStation style system menu)
 
 ### Download updates
 Online Updater
-|-> Update Core Info Files
-|-> Update Assets
-|-> Update Controller Profiles
-|-> Update Cheats
-|-> Update Databases
-|-> Update Overlays
-|-> Update GLSL Shaders
+  - Update Core Info Files
+  - Update Assets
+  - Update Controller Profiles
+  - Update Cheats
+  - Update Databases
+  - Update Overlays
+  - Update GLSL Shaders
 
 ### Controls
-By default, RetroArch uses the western configuration for Ok/Cancel within the menus.
-Since most other things on the Pocket Ace use the Japanese configuration for Ok/Cancel, I toggled the RetroArch setting to swap the menu button functionality.
+By default, RetroArch uses the western configuration for Ok/Cancel within the menus.  
+Since most other things on the Pocket Ace use the Japanese configuration for Ok/Cancel, I toggled the RetroArch setting to swap the menu button functionality.  
 
-*Settings -> Input -> Menu Controls -> Menu Swap OK and Cancel Buttons*
-Default: enabled (western)
-Setting: disabled (japanese)
+*Settings -> Input -> Menu Controls -> Menu Swap OK and Cancel Buttons*  
+Default: enabled (western)  
+Setting: disabled (japanese)  
 
 | Pocket Ace | Function |
 | --- | --- |
@@ -54,8 +54,8 @@ Setting: disabled (japanese)
 | A | OK |
 
 #### RetroPad Bindings
-*Settings -> Input -> RetroPad Binds -> Port 1 Controls*
-Using default settings
+*Settings -> Input -> RetroPad Binds -> Port 1 Controls*  
+Using default settings  
 
 | Pocket Ace | Numeric Key |
 | ---- | ---- |
