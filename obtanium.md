@@ -8,7 +8,7 @@ Version: 1.2.9
 
 ## Obtanium Emulation Pack
 Obtanium Import list of emulation-related applications  
-Source: [Obtanium Emulation Pack Github repository](https://github.com/RJNY/Obtainium-Emulation-Pack)  
+Source: [GitHub - Obtanium Emulation Pack](https://github.com/RJNY/Obtainium-Emulation-Pack)  
 File: [obtainium-emulation-pack-v6.2.0.json](https://github.com/RJNY/Obtainium-Emulation-Pack/releases/download/v6.2.0/obtainium-emulation-pack-v6.2.0.json)  
 Version: 6.2.0  
 
