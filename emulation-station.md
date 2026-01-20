@@ -4,8 +4,6 @@ UI frontend for browsing/launching all games and emulators.
 - [Official Site](https://es-de.org)
 - [GitLab Repository](https://gitlab.com/es-de/emulationstation-de)
 
-[[/images/es-de-theme.png|ES-DE theme]]
-
 ## Installation
 Source: https://es-de.org  
 Vendor: [Patreon](https://www.patreon.com/cw/es_de)  
@@ -39,6 +37,8 @@ Downloaded various themes
 Theme: Art Book Next  
 Theme Variant: List - Medata & Miximage  
 Theme Color Scheme: Dark - Noir  
+
+![ES-DE theme](/images/es-de-theme.png)
 
 ## Game Media
 *Menu -> Scraper -> Account Settings*  
