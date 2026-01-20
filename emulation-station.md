@@ -1,0 +1,47 @@
+# EmulationStation - Desktop Edition (ES-DE)
+UI frontend for browsing/launching all games and emulators.
+
+- [Official Site](https://es-de.org)
+- [GitLab Repository](https://gitlab.com/es-de/emulationstation-de)
+
+## Installation
+Source: https://es-de.org
+Vendor: [Patreon](https://www.patreon.com/cw/es_de)
+Price: $6.00
+Purchase Date: Jan 14, 2026
+File: [ES-DE_3.4.0-56.apk](/private/emulation-station.md)
+
+## Resources
+
+- [Discord](https://discord.gg/42jqqNcHf9)
+- [GitHub Repository Changelog](https://gitlab.com/es-de/emulationstation-de/-/blob/master/CHANGELOG.md)
+
+## Configuration
+
+*Menu -> Input Device Settings -> Enable Touch Overlay*
+Default: enabled
+Setting: disabled
+
+*Menu -> Other Settings -> Alternative Emulators*
+| Platform | Setting |
+| ---- | ---- |
+| Dreamcast | Redream (standalone) |
+| GameCube | Dolphin (standalone) |
+| MegaDrive | Genesis Plus GX |
+| Nintendo 64 | Mupen64Plus-Next |
+| Sony PSP | PPSSPP (standalone) |
+
+## Theme
+*Menu -> UI Settings -> Theme Downloader*
+Downloaded various themes
+Theme: Art Book Next
+Theme Variant: List - Medata & Miximage
+Theme Color Scheme: Dark - Noir
+
+## Game Media
+*Menu -> Scraper -> Account Settings*
+ScreenScraper account credentials
+
+*Menu -> Scraper -> Other Settings -> Region*
+Default: Europe
+Setting: USA
