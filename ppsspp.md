@@ -11,8 +11,8 @@ System Folder: `/PocketGames/PSP`
 Games Folder: `/PocketGames/roms/psp`  
 
 *Settings -> Graphics -> Rendering Resolution*  
-Default: 2x
-Setting: 4x PSP (1080p)
+Default: 2x  
+Setting: 4x PSP (1080p)  
 
 *Settings -> Graphics -> Show FPS Counter*  
 Default: disabled  
