@@ -6,7 +6,7 @@ Source: [Google Play Store](https://play.google.com/store/apps/details?id=org.pp
 
 ## Configuration
 Location: SD Card  
-System Folder Parent Directory: `/PocketGames`  
+System Folder Parent Directory: `/PocketGames/app-data`  
 System Folder: `/PocketGames/app-data/PSP`  
 Games Folder: `/PocketGames/roms/psp`  
 
