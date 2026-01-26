@@ -31,6 +31,29 @@ Setting: xmb (cross media bar, PlayStation style system menu)
 | Sega Saturn | YabaSanshiro | Performance: good for low-power devices |
 | Sony Playstation | Beetle PSX HW |
 
+### Directories
+By default, RetroArch creates a `RetroArch` folder in the root of Internal Storage (`InternalStorage:/RetrocArch`).  
+I moved this folder to `SDCard:/PocketGames/app-data/RetroArch`.  
+Configure RetroArch directores
+*Settings -> Directory*
+
+| Item | Location | Directory |
+| --- | --- | --- |
+| Start Directory | SD Card | `/PocketGames/roms` |
+| Cache | SD Card | `/PocketGames/app-data/RetroArch/temp` |
+| System/BIOS | SD Card | `/PocketGames/app-data/RetroArch/system` |
+| Save Files | SD Card | `/PocketGames/app-data/RetroArch/saves` |
+| Save States | SD Card | `/PocketGames/app-data/RetroArch/states` |
+| Configuration Files | SD Card | `/PocketGames/app-data/RetroArch/config` |
+| Downloads | SD Card | `/PocketGames/app-data/RetroArch/downloads` |
+| Thumbnails | SD Card | `/PocketGames/app-data/RetroArch/thumbnails` |
+| Cheat Files | SD Card | `/PocketGames/app-data/RetroArch/cheats` |
+| Screenshots | SD Card | `/PocketGames/app-data/RetroArch/screenshots` |
+| Save Files | SD Card | `/PocketGames/app-data/RetroArch/saves` |
+| Input Remaps | SD Card | `/PocketGames/app-data/RetroArch/config/remaps` |
+| Playlists | SD Card | `/PocketGames/app-data/RetroArch/playlists` |
+| System Event Logs | SD Card | `/PocketGames/app-data/RetroArch/logs` |
+
 ### Download updates
 Online Updater
   - Update Core Info Files
@@ -40,6 +63,11 @@ Online Updater
   - Update Databases
   - Update Overlays
   - Update GLSL Shaders
+
+### Cheats
+RetroArch downloads cheats for every system.  
+In order to save storage space, I deleted some of the folders for game systems I don't use.  
+`SDCard:/PocketGames/app-data/RetroArch/cheats/<system>`  
 
 ### Controls
 By default, RetroArch uses the western configuration for Ok/Cancel within the menus.  
