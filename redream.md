@@ -7,7 +7,7 @@ Redream used to be an open-source project (hosted on GitHub) but the developer d
 - [GitLab Issue Tracker](https://gitlab.com/inolen/redream)
 - [GitHub repository - defunct](https://github.com/inolen/redream)
 
-In order to play Dreamcast games are higher resolutions, you have to pay to upgrade it.  
+In order to play Dreamcast games at higher resolutions (1080p+), you have to pay to upgrade it.  
 
 I set up Redream but then decided to use [Flycast](/flycast.md) instead because it's completely free and seems to be much more configurable.  
 
