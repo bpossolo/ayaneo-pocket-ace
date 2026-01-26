@@ -15,6 +15,7 @@ A repository of resources, guides, emulators and configuration for my Ayaneo Poc
    1. [GameHub](/gamehub.md) - Steam
    1. [NetherSX2](/nether-sx2.md) - Sony PlayStation 2
    1. [PPSSPP](/ppsspp.md) - Sony PlayStation Portable (PSP)
+   1. [Flycast](/flycast.md) - Sega Dreamcast
    1. [Redream](/redream.md) - Sega Dreamcast
    1. [RetroArch](/retroarch.md) - Sega Genesis
 1. [EmulationStation](/emulation-station.md)

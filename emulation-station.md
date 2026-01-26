@@ -25,7 +25,7 @@ Setting: disabled
 *Menu -> Other Settings -> Alternative Emulators*  
 | Platform | Setting |
 | ---- | ---- |
-| Sega Dreamcast | Redream (standalone) |
+| Sega Dreamcast | Flycast (standalone) |
 | Sega GameGear | Genesis Plus GX |
 | Sega Genesis | Genesis Plus GX |
 | Nintendo 64 | Mupen64Plus-Next |
