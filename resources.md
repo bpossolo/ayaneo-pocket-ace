@@ -2,7 +2,9 @@
 
 ## EmuReady
 GameHub emulation compatibility database for portable gaming devices.  
-User-generated content with compatibility reports and recommended configurations/drivers/settings for optimal play.
+
+User-generated content with compatibility reports and recommended configurations/drivers/settings for optimal play.  
+
 https://www.emuready.com  
 
 ## Android Emulation Starter Guide
