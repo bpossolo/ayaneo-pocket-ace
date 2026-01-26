@@ -6,7 +6,6 @@ A repository of resources, guides, emulators and configuration for my Ayaneo Poc
 1. [Hardware](/hardware.md)
 1. [ROMs](/roms.md)
 1. [BIOS/Firmware](/bios-firmware.md)
-1. [Game Media](/game-media.md)
 1. Emulators
    1. [Dolphin](/dolphin.md) - Nintendo GameCube
    1. [GameHub](/gamehub.md) - Steam

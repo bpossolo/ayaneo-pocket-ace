@@ -26,3 +26,12 @@ Use this naming convention for ROM files so that emulators/frontends can retriev
 
 [Official No-Intro Naming Convention](
 https://datomatic.no-intro.org/stuff/The%20Official%20No-Intro%20Convention%20(20071030).pdf)
+
+## Game Media
+The following sites are good databases containing game titles, descriptions, cover art, media art, videos, etc.
+
+| Database | ES-DE integration |
+| --- | --- |
+| [ScreenScraper](https://www.screenscraper.fr/) | O |
+| [The Games DB](https://thegamesdb.net/) | O |
+| [Game UI Database](https://www.gameuidatabase.com/) | X |
