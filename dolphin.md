@@ -7,34 +7,33 @@ Source: Obtanium (Obtanium Emulation Pack)
 
 ## Configuration
 
-*Settings -> Config -> General -> Enable Cheats*  
+**_Settings -> Config -> General -> Enable Cheats_**  
 Default: disabled  
 Setting: enabled  
 
-*Settings -> Config -> General -> Fallback Region*  
+**_Settings -> Config -> General -> Fallback Region_**  
 Default: PAL  
 Setting: NTSC-U (usa)  
 
-*Settings -> Graphics Settings -> Video Backend*  
+**_Settings -> Graphics Settings -> Video Backend_**  
 Default: OpenGL  
-Notes:
- - OpenGL seems to work better thank Vulkan for Metal Gear Solid: Twin Snakes.
+Notes: OpenGL seems to work better thank Vulkan for Metal Gear Solid: Twin Snakes.
 
-*Settings -> Graphics Settings -> Compile Shaders Before Starting*  
+**_Settings -> Graphics Settings -> Compile Shaders Before Starting_**  
 Default: disabled  
 Setting: enabled  
 
-*Settings -> Graphics Settings -> Enhancements -> Internal Resolution*  
+**_Settings -> Graphics Settings -> Enhancements -> Internal Resolution_**  
 Default: 1x Native  
 Setting: 3x Native (1080p)  
 
-*Settings -> Graphics Settings -> Statistics -> Show FPS*  
+**_Settings -> Graphics Settings -> Statistics -> Show FPS_**  
 Default: disabled  
 Setting: enabled  
 
 ### Controls
 
-*Settings -> GameCube Input -> GameCube Controller 1 (gear) -> Buttons*  
+**_Settings -> GameCube Input -> GameCube Controller 1 (gear) -> Buttons_**  
 | Pocket Ace | GameCube |
 | ---- | ---- |
 | A | A |

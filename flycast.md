@@ -8,12 +8,12 @@ Source: [Google Play Store](https://play.google.com/store/apps/details?id=com.fl
 
 ## Configuration
 
-*Settings -> General -> Content Location*
-Location: SD Card
-Directory: `/PocketGames/roms/dreamcast`
+**_Settings -> General -> Content Location_**  
+Location: SD Card  
+Directory: `/PocketGames/roms/dreamcast`  
 
-*Settings -> Video -> Graphics API
-Default: OpenGL
+**_Settings -> Video -> Graphics API_**  
+Default: OpenGL  
 
-*Settings -> Video -> Internal Resolution*
-1600 x 1200 (x2.5)
+**_Settings -> Video -> Internal Resolution_**  
+1600 x 1200 (x2.5)  

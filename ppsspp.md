@@ -10,19 +10,19 @@ System Folder Parent Directory: `/PocketGames`
 System Folder: `/PocketGames/app-data/PSP`  
 Games Folder: `/PocketGames/roms/psp`  
 
-*Settings -> Graphics -> Backend*  
-Default: Vulkan
+**_Settings -> Graphics -> Backend_**  
+Default: Vulkan  
 
-*Settings -> Graphics -> Rendering Resolution*  
+**_Settings -> Graphics -> Rendering Resolution_**  
 Default: 2x  
 Setting: 4x PSP (1080p)  
 
-*Settings -> Graphics -> Show FPS Counter*  
+**_Settings -> Graphics -> Show FPS Counter_**  
 Default: disabled  
 Setting: enabled  
 
 ### Controls
-*Settings -> Controls -> On-screen touch controls*  
+**_Settings -> Controls -> On-screen touch controls_**  
 Default: enabled  
 Setting: disabled  
 

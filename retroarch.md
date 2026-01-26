@@ -9,12 +9,12 @@ Version: 1.22.2
 ## Configuration
 
 ### Menu UI
-*Settings -> Drivers -> Menu*  
+**_Settings -> Drivers -> Menu_**  
 Default: glui  
 Setting: xmb (cross media bar, PlayStation style system menu)  
 
 ### Emulator Cores
-*Load Core -> Download a Core*
+**_Load Core -> Download a Core_**
 
 | System | RetroGameCorp Recommendation | Notes |
 | ------ | ------ | ------ |
@@ -32,10 +32,11 @@ Setting: xmb (cross media bar, PlayStation style system menu)
 | Sony Playstation | Beetle PSX HW |
 
 ### Directories
-By default, RetroArch creates a `RetroArch` folder in the root of Internal Storage (`InternalStorage:/RetrocArch`).  
-I moved this folder to `SDCard:/PocketGames/app-data/RetroArch`.  
-Configure RetroArch directores
-*Settings -> Directory*
+By default, RetroArch creates a `RetroArch` folder in the root of Internal Storage (`InternalStorage:/RetroArch`).  
+
+I moved this folder to `SDCard:/PocketGames/app-data/RetroArch` and configured RetroArch directories.  
+
+**_Settings -> Directory_**
 
 | Item | Location | Directory |
 | --- | --- | --- |
@@ -55,7 +56,7 @@ Configure RetroArch directores
 | System Event Logs | SD Card | `/PocketGames/app-data/RetroArch/logs` |
 
 ### Download updates
-Online Updater
+**_Main Menu -> Online Updater_**
   - Update Core Info Files
   - Update Assets
   - Update Controller Profiles
@@ -73,7 +74,7 @@ In order to save storage space, I deleted some of the folders for game systems I
 By default, RetroArch uses the western configuration for Ok/Cancel within the menus.  
 Since most other things on the Pocket Ace use the Japanese configuration for Ok/Cancel, I toggled the RetroArch setting to swap the menu button functionality.  
 
-*Settings -> Input -> Menu Controls -> Menu Swap OK and Cancel Buttons*  
+**_Settings -> Input -> Menu Controls -> Menu Swap OK and Cancel Buttons_**  
 Default: enabled (western)  
 Setting: disabled (japanese)  
 
@@ -83,7 +84,7 @@ Setting: disabled (japanese)
 | A | OK |
 
 #### RetroPad Bindings
-*Settings -> Input -> RetroPad Binds -> Port 1 Controls*  
+**_Settings -> Input -> RetroPad Binds -> Port 1 Controls_**  
 Using default settings  
 
 | Pocket Ace | Numeric Key |

@@ -18,11 +18,11 @@ File: [ES-DE_3.4.0-56.apk](/private/emulation-station.md)
 
 ## Configuration
 
-*Menu -> Input Device Settings -> Enable Touch Overlay*  
+**_Menu -> Input Device Settings -> Enable Touch Overlay_**  
 Default: enabled  
 Setting: disabled  
 
-*Menu -> Other Settings -> Alternative Emulators*  
+**_Menu -> Other Settings -> Alternative Emulators_**  
 | Platform | Setting |
 | ---- | ---- |
 | Sega Dreamcast | Flycast (standalone) |
@@ -34,7 +34,7 @@ Setting: disabled
 | Sony PlayStation 2 | AetherSX2 (standalone) |
 
 ## Theme
-*Menu -> UI Settings -> Theme Downloader*  
+**_Menu -> UI Settings -> Theme Downloader_**  
 Downloaded various themes  
 Theme: Art Book Next  
 Theme Variant: List - Medata & Miximage  
@@ -43,9 +43,9 @@ Theme Color Scheme: Dark - Noir
 ![ES-DE theme](/images/es-de-theme.png)
 
 ## Game Media
-*Menu -> Scraper -> Account Settings*  
+**_Menu -> Scraper -> Account Settings_**  
 ScreenScraper account credentials  
 
-*Menu -> Scraper -> Other Settings -> Region*  
+**_Menu -> Scraper -> Other Settings -> Region_**  
 Default: Europe  
 Setting: USA  

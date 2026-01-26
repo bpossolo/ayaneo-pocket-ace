@@ -19,26 +19,26 @@ The entry can be manually added to Obtanium via a link in the [Obtanium-Emulatio
 
 ## Configuration
 
-*App Settings -> Graphics -> GPU Renderer*  
+**_App Settings -> Graphics -> GPU Renderer_**  
 Default: OpenGL  
 
-*App Settings -> Graphics -> Upscale Multiplier*  
+**_App Settings -> Graphics -> Upscale Multiplier_**  
 Default: Native (PS2/Default)  
 Setting: 2.5x Native (1080p/FHD)  
 
-*App Settings -> Graphics -> Aspect Ratio*  
+**_App Settings -> Graphics -> Aspect Ratio_**  
 Default: Auto Standard (4:3/3:2 Progressive)  
 
-*App Settings -> BIOS*  
+**_App Settings -> BIOS_**  
 USA v02.20 (10/02/2006) Console 20060210-142424 (1279FCE9.bin)  
 
 ### Controls
 
-*Controller Settings -> Touchscreen -> Touchscreen Controller View*  
+**_Controller Settings -> Touchscreen -> Touchscreen Controller View_**  
 Default: Digital Pad  
 Setting: None  
 
-*Controller Settings -> Controller Port 1 -> Bindings*  
+**_Controller Settings -> Controller Port 1 -> Bindings_**  
 | Pocket Ace | PS2 |
 | --- | --- |
 | D-pad up (-Axis16) | D-pad up |
