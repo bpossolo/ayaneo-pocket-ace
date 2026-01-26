@@ -26,6 +26,7 @@ Setting: enabled
 Default: enabled  
 Setting: disabled  
 
+**_Button Mappings_**
 | Pocket Ace | PSP |
 | --- | --- |
 | A | Circle |
