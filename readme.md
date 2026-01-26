@@ -4,6 +4,7 @@ A repository of resources, guides, emulators and configuration for my Ayaneo Poc
 ## Table of Contents
 
 1. [Hardware](/hardware.md)
+1. [File System](/filesystem.md)
 1. [ROMs](/roms.md)
 1. [BIOS/Firmware](/bios-firmware.md)
 1. App Managers
